@@ -1,11 +1,11 @@
 `timescale 1 ns / 100 ps
 
-module testbench;
+module testbench_d_flip;
 
     reg  clk, d;
     wire q, q_n;
 
-    d_latch d_latch (clk, d, q, q_n);
+    d_flip_flop d_flip_flop (clk, d, q, q_n);
     
     initial $dumpvars;
 
