@@ -1,4 +1,4 @@
-# Verilog-chip-design
+# Verilog-Designing-systems-on-a-chip
 
 This repository contains verilog code written as part of the laboratory work of the discipline "Designing systems on a chip", read at the HSE MIEM.
 
